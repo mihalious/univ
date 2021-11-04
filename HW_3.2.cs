@@ -195,7 +195,7 @@ namespace ConsoleApplication2
                         return;
                     }
 
-                    Console.WriteLine("если студент " + name + " учится хорошо нажмите 1, плохо- нажмите 0");
+                    Console.WriteLine("если студент " + name + " учится хорошо введите 1, плохо- введите 0");
 
                     switch (InputOutput.TrueSelect(Console.ReadLine()))
                     {

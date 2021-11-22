@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Professors>
+	<Faculty FACULTY = "Cybernetics">
+		<Professor
+			NAME ="Abdulaev Andrei"
+			DEPARTMENT = "Computer Science"		
+			SECTION = "Informatics"
+			CATHEDRA = "Computational Mathematics"		
+			PROFFECION = "Modeling of complex systems"
+			OCCUPATION = "Lecture">		
+		</Professor>
+		<Professor
+			NAME = "Alekseev Artem"
+			DEPARTMENT = "Applied Math"
+			SECTION = "Math"
+			CATHEDRA = "Theoretical Cybernetics"
+			PROFFECION = "Engineering"
+			OCCUPATION = "Seminar">
+		</Professor>
+		<Professor
+			NAME = "Bliznyk Vladislav"
+			DEPARTMENT ="System Analysis"
+			SECTION = "Systems and methods of decision making"
+			CATHEDRA = "Operations Research"
+			PROFFECION = "Operations Research"
+			OCCUPATION = "Scientific business trip">			
+		</Professor>
+		<Professor
+			NAME ="Jigadlo Andrij"
+			DEPARTMENT ="Program engineering"
+			SECTION ="Informatics"
+			CATHEDRA ="Mathematical Informatics"
+			PROFFECION ="Applied statistics"
+			OCCUPATION ="Receiving information from abroad" >
+		</Professor>		
+	</Faculty>
+
+	<Faculty FACULTY = "History and Archeology">
+		<Professor
+			NAME="Baklan Alisa"
+			DEPARTMENT ="Modern History"
+			SECTION = "History of East Europe"
+			CATHEDRA = "Modern history of foreign countries"
+			PROFFECION = "Historian"
+			OCCUPATION = "Transfer of information abroad">			
+		</Professor>
+		<Professor
+			NAME ="Vitkina Anna"
+			DEPARTMENT ="Archival Studies"
+			SECTION ="Archival science and documentation"
+			CATHEDRA ="Archival Studies and Historycal Science"
+			PROFFECION ="Source expert"
+			OCCUPATION ="Receiving information from abroad">
+		</Professor>
+		<Professor
+			NAME ="Volkova Maria"
+			DEPARTMENT ="Archeology"
+			SECTION ="Antropology"
+			CATHEDRA ="Archeology and Museum Studies"
+			PROFFECION ="Museologist"
+			OCCUPATION ="Seminar" >			
+		</Professor>		
+	</Faculty>
+
+	<Faculty FACULTY ="Institute of Law">
+		<Professor
+			NAME ="Goncharenko Evgen"
+			DEPARTMENT ="Jurisprudence"
+			SECTION ="Intellectual Property"
+			CATHEDRA ="Public Law"
+			PROFFECION ="Lawyer"
+			OCCUPATION ="Business trip" >
+		</Professor>
+		<Professor
+			NAME ="Kuznetsov Anton"
+			DEPARTMENT ="Law"
+			SECTION ="Legislative activity"
+			CATHEDRA ="Economic and Administrative Law"
+			PROFFECION ="Lawyer"
+			OCCUPATION ="Lecture" >
+		</Professor>
+	</Faculty>
+	
+	<Faculty FACULTY = "Economics">
+		<Professor
+			NAME ="Litvinchuk Timur"
+			DEPARTMENT ="Management of Organizations"
+			SECTION ="Accounting and Auditing"
+			CATHEDRA ="Enterprise Economics"
+			PROFFECION ="Menagment"
+			OCCUPATION ="Seminar" >
+			
+		</Professor>
+		<Professor
+			NAME ="Nikitin Ruslan"
+			DEPARTMENT ="Economy"
+			SECTION ="International Economics"
+			CATHEDRA = "Economic Theory"
+			PROFFECION ="Entrepreneurship"
+			OCCUPATION ="Transfer of information abroad" >			
+		</Professor>
+	</Faculty>
+</Professors>
+
+
+
+
